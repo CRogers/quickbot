@@ -1,0 +1,10 @@
+{
+    "name": "quickbot",
+    "description": "A superfast and easy irc bot with a plugin system and remote control",
+    "keywords": ["irc", "bot", "ircbot", "quickbot"],
+    "homepage": "https://github.com/CRogers/quickbot",
+    "main" : "index.js",
+    "repository": {"type": "git", "url": "git://github.com/CRogers/quickbot.git"
+    "author": "Callum Rogers <callumrogers@hotmail.co.uk>",
+    "version": "0.0.1"
+}
